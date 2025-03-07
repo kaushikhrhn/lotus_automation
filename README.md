@@ -1,1 +1,3 @@
-# lotus_automation
+# Lotus Automation
+
+A Cool Side Project!
